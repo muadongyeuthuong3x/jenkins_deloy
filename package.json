@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "i": "^0.3.7",
     "npm": "^10.4.0",
     "timers-promises": "^1.0.1"
